@@ -1,2 +1,2 @@
 # Version.Zero
-First step toward BigData
+First step towards BigData
