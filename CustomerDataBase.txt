@@ -1,0 +1,10 @@
+C111	Cersei Lannister	F	36	36, Iron Throne, King's Landing	King's Landing	Westros	900099	9922993355	"Dancing""Reading"	25/12/1971
+C112	Mark	M	42	177 Barby Trail	Santiago Atitlán	Guatemala	7019	502-(251)771-8421	"Travelling""Blogging"	10/03/1973
+C113	Idette	F	53	7204 Petterle Trail	Chóra	Greece	9021	30-(414)818-8301	"Playing""Chess""Singing"	25/12/1971
+C114	Westleigh	M	58	29898 Golf View Way	Siluko	Nigeria	1885	234-(448)653-2343	"Horse""Riding""Swimming""Polo"	29/06/1983
+C123	Joyce	F	37	2540 Amoth Plaza	Pashiya	Russia	618824	7-(113)115-8825	"Travelling""Reading""Programming""Trekking"	02/08/1972
+C567	Dillon	M	50	20 Vermont Pass	Hisings Kärra	Sweden	425 38		"Skating""Diving"	18/09/1964
+C190	Marissa	F	28	13 Stephen Parkway	Digdig	Philippines	9318		"Skating""Reading""Trekking"	04/09/1990
+C392	Thaine	M	51	7 American Ash Pass	Tai’an	China	55985	86-(499)287-3603	"Reading""Travelling""Skiing"	28/04/1996
+C432	Ramalingam	M	32	12, Nehru Colony, New Delhi	New Delhi	India	110001	86-(979)644-0944	"Swimming""Reading""Travelling"	15/12/1992
+C657	Josh	M	29	82 Jenna Way	Xianan	China	88965	86-(754)640-7112	"Reading""Blogging""Vlogging"	04/09/1990
