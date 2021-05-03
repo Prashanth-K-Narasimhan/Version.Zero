@@ -1,5 +1,5 @@
 
-# First Step Towards BigData
+# BASIC JAVA
 
 Declaration:
 The programs contained here are for the sole purpose of understanding JAVA and is not in anyway related to my project what-so-ever. 
